@@ -12,7 +12,6 @@ def print_linux_uptime(request):
     data = subprocess.run(['bash', '/opt/sample.sh'], check=True, capture_output=True, text=True)
     server = request.POST.get("input_text")
     # Prepare the output for rendering in the template
-    #this is viw file
     output = uptime_output + server + '<br>' + '<br>'.join(data.stdout.splitlines())
 
     # Render the template with the output
