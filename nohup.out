@@ -285,3 +285,43 @@ Quit the server with CONTROL-C.
 [28/Jun/2023 14:53:06] "POST /homework/uptime HTTP/1.1" 200 926
 [28/Jun/2023 14:53:17] "POST /homework/uptime HTTP/1.1" 200 925
 [28/Jun/2023 14:58:14] "POST /homework/uptime HTTP/1.1" 200 925
+/opt/work/homework/views.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+June 28, 2023 - 15:11:28
+Django version 4.2.2, using settings 'work.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+[28/Jun/2023 16:09:30] "POST /homework/uptime HTTP/1.1" 200 925
+/opt/work/homework/views.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+June 28, 2023 - 16:15:19
+Django version 4.2.2, using settings 'work.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+/opt/work/homework/views.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+June 28, 2023 - 16:37:30
+Django version 4.2.2, using settings 'work.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
