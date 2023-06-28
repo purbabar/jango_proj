@@ -5,10 +5,6 @@ from django.shortcuts import render
 import subprocess
 import re
 
-def monthly_works(request, month):
-    return HttpResponse(month)
-
-
 def print_linux_uptime(request):
     template = loader.get_template("home.html")
     # Execute the commands and capture the output
